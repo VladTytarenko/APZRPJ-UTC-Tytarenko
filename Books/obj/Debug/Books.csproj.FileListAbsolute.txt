@@ -1,0 +1,13 @@
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\bin\Debug\Books.exe.config
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\bin\Debug\Books.exe
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\bin\Debug\Books.pdb
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\App.g.cs
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\Books_MarkupCompile.cache
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\Books.g.resources
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\Books.Properties.Resources.resources
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\Books.csproj.GenerateResource.Cache
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\Books.exe
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\Books.pdb
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\MainWindow.g.cs
+c:\users\avt13\onedrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\MainWindow.baml
+C:\Users\avt13\OneDrive\документы\visual studio 2015\Projects\Books\Books\obj\Debug\Books.csprojResolveAssemblyReference.cache

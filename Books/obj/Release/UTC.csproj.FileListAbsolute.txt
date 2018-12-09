@@ -1,0 +1,13 @@
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\bin\Release\Books.exe.config
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\bin\Release\Books.exe
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\bin\Release\Books.pdb
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\UTC.csprojResolveAssemblyReference.cache
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\MainWindow.baml
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\MainWindow.g.cs
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\App.g.cs
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\Books_MarkupCompile.cache
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\Books.g.resources
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\Books.Properties.Resources.resources
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\UTC.csproj.GenerateResource.Cache
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\Books.exe
+C:\Users\avt13\OneDrive\Документы\Visual Studio 2015\Projects\Books\Books\obj\Release\Books.pdb

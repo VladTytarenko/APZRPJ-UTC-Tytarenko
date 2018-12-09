@@ -1,0 +1,38 @@
+﻿<Window x:Class="UTC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Title="MainWindow" Height="350" Width="525">
+
+    <Grid RenderTransformOrigin="0.043,0.671">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ListBox ItemsSource="{Binding ClockList}" SelectedItem="{Binding Path=SelectedClock, Mode=TwoWay}" Grid.Column="1" Margin="10" Grid.RowSpan="2">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <ComboBox ItemsSource="{Binding UtcZoneList}"
+                              Name="ClockEnumList"
+                              SelectedItem="{Binding Path=SelectedZone, Mode=TwoWay}"
+                              SelectedIndex="1"
+                              Height="30" 
+                              VerticalAlignment="Top" Margin="23,10,207,0" Grid.Column="1"/>
+                        <Label Content="{Binding CurrentTime}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Button Command="{Binding AddCommand}" Content="Add" Margin="10,10,10,222"/>
+        <Button Command="{Binding RemoveCommand}" CommandParameter="{Binding SelectedClock}" Content="Delete" Margin="10,102,10,134"/>
+    </Grid>
+
+</Window>
